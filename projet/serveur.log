@@ -1,0 +1,7 @@
+2026-11-20 08:00:01 INFO    Démarrage du serveur 
+2026-11-20 08:00:02 INFO    Connexion à la base OK 
+2026-11-20 08:15:40 WARNING Disque presque plein 
+2026-11-20 09:02:11 ERROR   Impossible d'ouvrir carte.json 
+2026-11-20 09:02:12 INFO    Nouvelle tentative 
+2026-11-20 09:02:13 ERROR   Impossible d'ouvrir carte.json 
+2026-11-20 10:30:00 INFO    Arrêt du serveur
